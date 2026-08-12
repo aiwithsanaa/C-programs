@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //Swap two numbers using third veriable
     int a,b,temp;
     printf("Enter the value of A: ");
     scanf("%d",&a);
